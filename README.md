@@ -12,22 +12,6 @@ List of resources for WDI Philly 17 cohort. Updated as the course progresses.
 6. [Exercises and Playgrounds](#exercises-and-playgrounds)
 7. [Example Code](#example-code)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Publications
 
 ### HTML+CSS/Web Design
