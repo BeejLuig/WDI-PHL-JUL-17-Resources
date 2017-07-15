@@ -5,6 +5,7 @@ List of resources for WDI Philly 17 cohort. Updated as the course progresses.
 ## Table of Contents
 
 1. [Online Publications](#online-publications)
+	- [HTML+CSS/Web Design](#html+css%2Fweb-design)
 
 ## Online Publications
 
