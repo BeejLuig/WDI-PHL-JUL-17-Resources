@@ -4,17 +4,19 @@ List of resources for WDI Philly 17 cohort. Updated as the course progresses.
 
 ## Table of Contents
 
-1. [Online Publications](#online-publications)
-	- [HTML+CSS/Web Design](#html+css%2Fweb-design)
+1. [Publications](#publications)
+2. [Books](#books)
+3. [Tutorials](#tutorials)
+4. [Articles](#articles)
 
-## Online Publications
+## Publications
 
 ### HTML+CSS/Web Design
 
 - [A List Apart](https://alistapart.com)
 - [CSS Tricks](https://css-tricks.com)
 
-## Online Books
+## Books
 
 ### JavaScript
 
@@ -25,7 +27,7 @@ List of resources for WDI Philly 17 cohort. Updated as the course progresses.
 
 - [Pro Git Book](https://git-scm.com/book/en/v2)
 
-## Online Tutorials
+## Tutorials
 
 ### General Programming
 
