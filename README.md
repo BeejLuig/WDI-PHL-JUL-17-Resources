@@ -4,7 +4,7 @@ List of resources for WDI Philly 17 cohort. Updated as the course progresses.
 
 ## Table of Contents
 
-1. [Online Publications](./#Online%20Publications)
+1. [Online Publications](#online-publications)
 
 ## Online Publications
 
