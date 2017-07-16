@@ -107,7 +107,8 @@ List of resources for WDI Philly 17 cohort. Updated as the course progresses.
 	- [Adding an existing project to GitHub using the command line](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
 	- [Closing issues via commit messages](https://help.github.com/articles/closing-issues-via-commit-messages/)
 	- [Ignoring files](https://help.github.com/articles/ignoring-files/)
-- [Undoing Changes](https://www.atlassian.com/git/tutorials/undoing-changes#git-revert)
+- Atlassian
+	- [Undoing Changes](https://www.atlassian.com/git/tutorials/undoing-changes#git-revert)
 
 ### Markdown
 
