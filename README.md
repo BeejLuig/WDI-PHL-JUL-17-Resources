@@ -43,6 +43,7 @@ List of resources for WDI Philly 17 cohort. Updated as the course progresses.
 ### Git/GitHub
 
 - [try.github.io](https://try.github.io/levels/1/challenges/1)
+- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)
 
 ## Articles
 
@@ -106,6 +107,7 @@ List of resources for WDI Philly 17 cohort. Updated as the course progresses.
 	- [Adding an existing project to GitHub using the command line](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
 	- [Closing issues via commit messages](https://help.github.com/articles/closing-issues-via-commit-messages/)
 	- [Ignoring files](https://help.github.com/articles/ignoring-files/)
+- [Undoing Changes](https://www.atlassian.com/git/tutorials/undoing-changes#git-revert)
 
 ### Markdown
 
